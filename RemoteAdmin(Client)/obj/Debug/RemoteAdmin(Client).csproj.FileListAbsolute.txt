@@ -1,0 +1,10 @@
+C:\Users\shebanits.vitaliy\Desktop\RemoteAdmin\RemoteAdmin(Client)\bin\Debug\RemoteAdmin(Client).exe.config
+C:\Users\shebanits.vitaliy\Desktop\RemoteAdmin\RemoteAdmin(Client)\bin\Debug\RemoteAdmin(Client).exe
+C:\Users\shebanits.vitaliy\Desktop\RemoteAdmin\RemoteAdmin(Client)\bin\Debug\RemoteAdmin(Client).pdb
+C:\Users\shebanits.vitaliy\Desktop\RemoteAdmin\RemoteAdmin(Client)\obj\Debug\RemoteAdmin(Client).csprojAssemblyReference.cache
+C:\Users\shebanits.vitaliy\Desktop\RemoteAdmin\RemoteAdmin(Client)\obj\Debug\RemoteAdmin_Client_.Properties.Resources.resources
+C:\Users\shebanits.vitaliy\Desktop\RemoteAdmin\RemoteAdmin(Client)\obj\Debug\RemoteAdmin(Client).csproj.GenerateResource.cache
+C:\Users\shebanits.vitaliy\Desktop\RemoteAdmin\RemoteAdmin(Client)\obj\Debug\RemoteAdmin(Client).csproj.CoreCompileInputs.cache
+C:\Users\shebanits.vitaliy\Desktop\RemoteAdmin\RemoteAdmin(Client)\obj\Debug\RemoteAdmin(Client).exe
+C:\Users\shebanits.vitaliy\Desktop\RemoteAdmin\RemoteAdmin(Client)\obj\Debug\RemoteAdmin(Client).pdb
+C:\Users\shebanits.vitaliy\Desktop\RemoteAdmin\RemoteAdmin(Client)\obj\Debug\RemoteAdmin_Client_.Form1.resources

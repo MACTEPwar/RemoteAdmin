@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteAdmin", "RemoteAdmin\RemoteAdmin.csproj", "{50E20C16-442F-4705-A7B2-0FBE15C37194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoteAdmin(Client)", "RemoteAdmin(Client)\RemoteAdmin(Client).csproj", "{993241F6-71A4-4003-A6CA-4E03D59F215F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50E20C16-442F-4705-A7B2-0FBE15C37194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E20C16-442F-4705-A7B2-0FBE15C37194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E20C16-442F-4705-A7B2-0FBE15C37194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E20C16-442F-4705-A7B2-0FBE15C37194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{993241F6-71A4-4003-A6CA-4E03D59F215F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{993241F6-71A4-4003-A6CA-4E03D59F215F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{993241F6-71A4-4003-A6CA-4E03D59F215F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{993241F6-71A4-4003-A6CA-4E03D59F215F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51309959-7E05-4849-9AEB-D3505D874833}
+	EndGlobalSection
+EndGlobal
